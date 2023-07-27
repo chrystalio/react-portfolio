@@ -225,7 +225,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work and Internship",
   description:
-    "I've completed two internships. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
+    "Here are some of the companies that I've worked with",
   header_image_path: "experience.svg",
   sections: [
     {
