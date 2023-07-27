@@ -12,12 +12,12 @@ const greeting = {
   title: "Hi There! 👋🏻",
   title2: "Kristoff",
   logo_name: "Kristoff",
-  nickname: "hrishi1999 / picleric",
+  nickname: "Kristoff",
   full_name: "Chrystalio (Kristoff)",
   subTitle:
     "As a computer science student and full-time programmer, I spend most of my time staring at a screen and mumbling about bugs and syntax errors. So, that's me, I'm basically a human caffeine-fueled robot who can survive on coffee or energy drinks alone.",
   resumeLink:
-    "#",
+    "https://drive.google.com/file/d/1yU-j_71Xe0pPkGQU1xifQ-ZWAe4CCgr7/view",
   mail: "mailto:chrystalio.k@outlook.com",
 };
 
